@@ -1,0 +1,1 @@
+#  any functionalities that i am writing in a common way, to be used in entire application
