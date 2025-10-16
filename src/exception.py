@@ -1,5 +1,7 @@
 import sys
 
+# importing from logger.py
+from src.logger import logging
 
 
 # my own custom message for errors
